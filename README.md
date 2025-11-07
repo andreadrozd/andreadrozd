@@ -9,7 +9,7 @@ Licentiate in Biological Sciences (Licenciatura en Ciencias Biológicas con Orie
 Professor in Natural Sciences - Instituto Superior de Formación Docente N° 17 🍎 
 ### Areas of Expertise 🌳 🌊
 
-#### Remote Sensing and GIS 1 🛰
+#### Remote Sensing and GIS 🛰
 Analysis of satellite imagery (optical and radar).
 Spatial modeling and analysis.
 Development of algorithms for environmental monitoring.
